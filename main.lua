@@ -1,0 +1,1 @@
+local daimonMaincra = RegisterMod("Daimon Shotgunner and Mordhau",1)
